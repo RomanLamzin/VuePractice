@@ -1,4 +1,3 @@
-# todotasker
 
 ## Project setup
 ```
